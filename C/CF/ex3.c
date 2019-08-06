@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main(void) {
     int distance_feet = 0;
     float distance_yards = 0.0f;
     int distance_inches = 0;
